@@ -1,2 +1,2 @@
 my-new-repo
-i love my job
+i Love my life
